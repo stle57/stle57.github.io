@@ -1,2 +1,3 @@
 name: Stephanie Le, Le Family
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
